@@ -1,4 +1,4 @@
-g# Hi there 👋, I'm Saugat
+# Hi there 👋, I'm Saugat
 
 🎓 3rd Semester Computer Science Student  
 💻 Interested in Backend Development & Data Science  
@@ -48,7 +48,7 @@ g# Hi there 👋, I'm Saugat
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saugatrana10&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaugatRana&show_icons=true&theme=tokyonight)
 
 
 ---
