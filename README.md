@@ -48,7 +48,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaugatRana&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saugatrana10&show_icons=true&theme=tokyonight)
 
 
 ---
