@@ -58,6 +58,8 @@
 
 
 ---
+![snake gif](https://github.com/Saugatrana10/Saugatrana10/blob/output/github-snake-dark.svg)
+
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/Saugatrana10   
