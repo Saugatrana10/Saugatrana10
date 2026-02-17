@@ -62,8 +62,9 @@
 - GitHub: https://github.com/Saugatrana10   
 - Email: saugatrana12c39@gmail.com
 ---
-
-<div align='center'>
-![snake gif](https://github.com/Saugatrana10/Saugatrana10/blob/output/github-snake-dark.svg)
+<div align="center">
+  
+ ![snake gif](https://github.com/Saugatrana10/Saugatrana10/blob/output/github-snake-dark.svg)
+ 
 </div>
----
+
