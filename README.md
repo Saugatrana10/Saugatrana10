@@ -48,6 +48,7 @@
 ---
 
 ## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Saugatrana10&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy)
 ![](https://github-readme-stats.vercel.app/api?username=Saugatrana10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Saugatrana10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saugatrana10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
