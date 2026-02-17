@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋, I'm Saugat
 
-<!--
-**Saugatrana10/Saugatrana10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Semester Computer Science Student  
+💻 Interested in Backend Development & Data Science  
+🌱 Currently learning Django and Machine Learning  
+🚀 Building projects to improve my real-world skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+**Languages:**  
+- Python  
+- JavaScript  
+- HTML  
+- CSS  
+
+**Backend:**  
+- Django (Learning)  
+- REST APIs (Basics)
+
+**Data Science:**  
+- NumPy  
+- Pandas  
+- Data Analysis (Beginner)
+
+**Tools:**  
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook
+
+---
+
+## 📚 What I'm Currently Learning
+- Django REST Framework  
+- SQL & Databases  
+- Machine Learning basics  
+- Writing clean and scalable backend code
+
+---
+
+## 🎯 Goals
+- Become strong in backend development  
+- Build real-world Django projects  
+- Get a backend/data science internship  
+- Contribute to open-source someday
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saugatrana10&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Saugatrana10   
+- Email: saugatrana12c39@gmail.com
+
