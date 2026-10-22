@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Saugat
 
 🎓 5th Semester Computer Science Student  
-💻 Interested in Backend Development & Data Science  
+💻 Interested in Backend Development & AI/ML  
 🌱 Currently learning Django and Machine Learning  
 🚀 Building projects to improve my real-world skills
 
